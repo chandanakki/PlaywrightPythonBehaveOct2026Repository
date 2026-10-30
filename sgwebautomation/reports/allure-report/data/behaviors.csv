@@ -1,0 +1,7 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Launch browser and Navigate Application URL","0","1","","0"
+"0","","0","Verify the Login and Logout functionality with valid credentials","0","1","","0"
+"0","","0","Verify the Login and Logout functionality with valid credentials using parameters","2","0","","0"
+"0","","0","Verify the Login functionality with valid credentials","0","1","","0"
+"0","","0","Verify the Login functionality with invalid credentials","0","1","","0"
+"0","","0","Verify the Create Customer and Delete Customer functionality","1","0","","0"
